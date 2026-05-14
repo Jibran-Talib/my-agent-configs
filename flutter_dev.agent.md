@@ -23,6 +23,7 @@ Rules:
 - ~/.agents/rules/pagination_rules.md
 - ~/.agents/rules/loader_rules.md
 - ~/.agents/rules/app_dialog_rules.md
+- ~/.agents/rules/skeletonizer_rules.md
 
 
 Workflows:
