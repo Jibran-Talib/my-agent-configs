@@ -12,6 +12,9 @@ Skills:
 - ~/.agents/skills/clean_architecture.md
 - ~/.agents/skills/project_architecture.md
 - ~/.agents/skills/state_management.md
+- ~/.agents/skills/firebase_remote_config_skill.md
+- ~/.agents/skills/notification_service_skill.md
+- ~/.agents/skills/location_service_skill.md
 
 Rules:
 - ~/.agents/rules/coding_rules.md
