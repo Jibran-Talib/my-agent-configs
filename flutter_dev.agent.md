@@ -19,6 +19,7 @@ Rules:
 - ~/.agents/rules/naming_conventions.md
 - ~/.agents/rules/pagination_rules.md
 - ~/.agents/rules/loader_rules.md
+- ~/.agents/rules/app_dialog_rules.md
 
 
 Workflows:
